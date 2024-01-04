@@ -3,7 +3,7 @@
 ### About the class
 This class taught me how to test program software and check for the quality of the given program. In this class, we were given assignments to create software to meet a client's needs. After creation, we had to ensure that the product effectively and efficiently ran before release.
 
-## Below is the information on the projects done for the class
+## QA based on information from projects done in the class
 
 ### How can I ensure that my code, program, or software is functional and secure?
 I ensure that my code, program, and software are functional and secure by constantly rerunning the program as I develop the software so I can catch errors sooner rather than later. I also use standard industry best practices to create the software in my programs. 
